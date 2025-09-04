@@ -7,4 +7,3 @@ Developers:
 
 It depends on pychromecast and allows for terminal based interactive control of media playback.  Or non interactive playback, with a one command start and ignore.
 
-I made this change as I was relearning how to use git
